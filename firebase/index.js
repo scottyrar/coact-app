@@ -3,17 +3,6 @@ import { getAuth, initializeAuth, getReactNativePersistence } from "firebase/aut
 import { getDatabase, ref, set, onValue } from "firebase/database";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-// const firebaseConfig = {
-//     apiKey: "AIzaSyAQddWdX9_j3uXc-6iiacfaPUUoZAqASFY",
-//     authDomain: "co-act-app.firebaseapp.com",
-//     databaseURL: "https://co-act-app-default-rtdb.asia-southeast1.firebasedatabase.app",
-//     projectId: "co-act-app",
-//     storageBucket: "co-act-app.appspot.com",
-//     messagingSenderId: "178673755863",
-//     appId: "1:178673755863:web:eff44985bd7bb551f4b292",
-//     measurementId: "G-EF57XJYTQ2"
-// };
-
 const firebaseConfig = {
     apiKey: process.env.EXPO_PUBLIC_FIREBASE_API_KEY,
     authDomain: process.env.EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN,
