@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Home",
+    "dash": "Dashboard",
+    "his": "History",
+    "setting": "Setting"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "enjoy": "enjoy your day!",
+    "paring": "Paring",
+    "connect": "Connected",
+    "no_connect": "Not connected",
+    "on": "ON",
+    "off": "OFF"
+  },
+  "device": {
+    "device": "Device",
+    "device_name": "Device Name",
+    "name": "Name",
+    "create": "Create Plan",
+    "date": "Day",
+    "start": "Time Start",
+    "end": "Time End",
+    "all": "Select All Day",
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat",
+    "sun": "Sun",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete"
+  },
+  "history": {
+    "device_name": "Device Name",
+    "name": "Name",
+    "date": "Date",
+    "time": "Time",
+    "status": "Status",
+    "dont": "No information"
+  },
+  "setting": {
+    "title": "Setting",
+    "lang": "Language Setting",
+    "mode": "Light / Dark Mode",
+    "change": "Change Password",
+    "clear": "Clear Setting",
+    "term": "Terms of Use",
+    "policy": "Personal data protection policy",
+    "ver": "Version",
+    "sign_out": "Sign Out"
+  },
+  "paring": {
+    "pair": "Pair to Co'act Device",
+    "please": "Please connect to Wifi",
+    "name": "name include Co'act",
+    "choose": "Choose your Wifi network",
+    "make": "Make sure the choose your wifi",
+    "network": "network(SSID) is a 2.4 GHz",
+    "cant": "Can’t find Your Wifi?",
+    "fill": "Fill in manually!",
+    "success": "Successfully Paired",
+    "you": "You device are paired with the wifi",
+    "next": "Next",
+    "cancel": "Cancel",
+    "ssid": "Wifi SSID",
+    "pass": "Wifi Password",
+    "loading": "Loading..."
+  },
+  "auth": {
+    "user_name": "User Name",
+    "email": "Email",
+    "phone": "Phone",
+    "pass": "Password",
+    "con_pass": "Password Confirm",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "change": "Change Password",
+    "edit": "Edit Profile"
+  },
+  "dashboard": {
+    "jan": "January",
+    "feb": "February",
+    "mar": "March",
+    "apr": "April",
+    "may": "May",
+    "jun": "June",
+    "jul": "July",
+    "aug": "August",
+    "sep": "September",
+    "oct": "October",
+    "nov": "November",
+    "dec": "December",
+    "que": "Quarter",
+    "select": "Please selected device name",
+    "on": "On",
+    "off": "Off",
+    "plan": "Plan"
+  }
+}
