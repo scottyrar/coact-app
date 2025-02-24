@@ -14,6 +14,7 @@ export default function Index() {
   const navigationState = useRootNavigationState();
   const { initialized, isLoggedIn } = AuthStore.useState((s) => s);
   const { setColorScheme } = useColorScheme();
+  // test deploy
 
   const getData = async () => {
     try {
